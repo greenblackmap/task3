@@ -1,0 +1,68 @@
+html {
+    height:100%;
+}
+*{
+    padding:0;
+    margin:0;
+}
+body {
+    background-color: #68cdd5;
+    height:100%;
+}
+p {
+    color: white;
+}
+/*上部返回标志设定开始*/
+.topdiv {
+    height: 20%;
+    /*box-sizing: border-box;*/
+}
+.topdiv .leave {
+    height: 54px;
+    width: 54px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+/*上部返回标志设定结束、葡萄藤标志设定开始*/
+.center1 {
+    height:15%;
+    text-align:center;
+}
+.grape {
+    height:70px;
+    width:181px;
+}
+/*葡萄藤设定结束、中央文字设定开始*/
+.center2{
+    height:35%;
+}
+.letter {
+    margin:0 15% 0 15%;
+    font-size:1.5rem;
+    word-wrap:break-word;
+}
+/*中央文字设定结束，下方两图标设定*/
+.number,.name {
+    height:84px;
+    width:84px;
+    margin:0 8px 20px;
+}
+.letter1,.letter2 {
+    font-size:1rem;
+    margin:0 0 0 0;
+    text-align:center;
+}
+.left {
+    height:30%;
+    margin-left:15%;
+    width:100px;
+    float:left;
+}
+.right {
+    height:30%;
+    margin-right:15%;
+    width:100px;
+    float:right;
+}
+
+
